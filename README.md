@@ -21,7 +21,7 @@ This PDF serves as a **structured guide** to quickly revise and understand impor
 
 ## Download the PDF
 
-Download Kubernetes Interview Questions PDF
+- [Download Kubernetes Interview Questions PDF](https://github.com/Sarthak-Srivastava03/Kubernetes-Interview-Prep/blob/main/Kubernetes_Interview_Prep_Part%201-1.pdf)
 
 ## Why This Repository?
 
